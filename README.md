@@ -7,7 +7,7 @@ The two main questions posed by the NHS, that I will be investigating are:
 
 Files include:
 
-Data files
-Jupyter notebook
-Report
-Presentation
+- Data files
+- Jupyter notebook
+- Report
+- Presentation
