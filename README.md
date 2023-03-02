@@ -4,3 +4,10 @@ I am part of a team of data analysts that was approached by the National Health 
 The two main questions posed by the NHS, that I will be investigating are:
 - Has there been adequate staff and capacity in the networks?
 - What was the actual utilisation of resources?
+
+Files include:
+
+Data files
+Jupyter notebook
+Report
+Presentation
